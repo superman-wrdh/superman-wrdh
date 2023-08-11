@@ -9,5 +9,5 @@ I ❤ Open Source. I am interesting in...
 
 and so on.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=superman-wrdh&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![koho's GitHub Stats](https://github-readme-stats.vercel.app/api?username=superman-wrdh&show_icons=true&line_height=40&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=superman-wrdh&hide_border=true)](https://github.com/superman-wrdh)
+[![koho's GitHub Stats](https://github-readme-stats.vercel.app/api?username=superman-wrdh&show_icons=true&line_height=40&hide_border=true)](https://github.com/superman-wrdh)
